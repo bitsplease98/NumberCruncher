@@ -52,3 +52,8 @@ def buttonpressed(text):
 
 ## Screenshots
 
+![img](https://github.com/bitsplease98/NumberCruncher/blob/master/numb1.PNG)
+
+![img](https://github.com/bitsplease98/NumberCruncher/blob/master/numb2.PNG)
+
+
